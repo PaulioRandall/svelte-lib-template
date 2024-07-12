@@ -16,7 +16,7 @@
 
 ## Made to be Plundered
 
-Do whatever as long as you adhere to the permissive MIT license found within.
+Fork, pillage, and plunder! Do whatever as long as you adhere to the project's permissive MIT license.
 
 ## Components
 

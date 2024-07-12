@@ -16,7 +16,7 @@
 
 ## Made to be Plundered
 
-Do whatever as long as you adhere to the permissive MIT license found within.
+Fork, pillage, and plunder! Do whatever as long as you adhere to the project's permissive MIT license.
 
 ## Components
 
@@ -26,18 +26,18 @@ Component description.
 
 ```svelte
 <script context="module">
-	// Description of the module prop.
-	export const moduleProp
+  // Description of the module prop.
+  export const moduleProp
 </script>
 ```
 
 ```svelte
 <script>
-	// Description of the prop.
-	export let prop = "Default value"
+  // Description of the prop.
+  export let prop = "Default value"
 
-	// Description of the set context.
-	setContext("ctx", ...)
+  // Description of the set context.
+  setContext("ctx", ...)
 </script>
 
 <!-- Default slot description. -->
@@ -49,9 +49,9 @@ Component description.
 
 ```svelte
 <TemplateComponent
-	prop="Default value"
+  prop="Default value"
 >
-	<div />
-	<div slot="name" />
+  <div />
+  <div slot="name" />
 </TemplateComponent>
 ```
