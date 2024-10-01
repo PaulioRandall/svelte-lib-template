@@ -21,8 +21,4 @@
 		flex-direction: column;
 		gap: 2rem;
 	}
-
-	.test-content {
-		font-size: max(32px, 2rem);
-	}
 </style>

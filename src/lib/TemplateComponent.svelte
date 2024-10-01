@@ -16,9 +16,7 @@
 	//@prop prop
 	// Description of the prop.
 	// @default "Default value"
-	// @alias p
 	export let prop = 'Default value'
-	export let p = prop
 
 	//@ctx ctx
 	// Description of the set context.
